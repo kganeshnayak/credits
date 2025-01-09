@@ -14,7 +14,7 @@
             "#": "/manage/wallet/*"
           },
           {
-            "/": "/mastercardConnect/"
+            "#": "/mastercardConnect/"
           }
         ]
       }
