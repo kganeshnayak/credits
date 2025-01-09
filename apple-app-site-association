@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "JVSN22JM65.com.mercurycards.ios.cardapp.dev",
+          "JVSN22JM65.com.mercurycards.ios.cardapp.beta"
+        ],
+        "components": [
+          {
+            "#": "/amazon/pull?*"
+          },
+          {
+            "#": "/manage/wallet/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "JVSN22JM65.com.mercurycards.ios.cardapp.dev",
+      "JVSN22JM65.com.mercurycards.ios.cardapp.beta"
+    ]
+  }
+}
